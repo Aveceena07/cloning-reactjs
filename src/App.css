@@ -1,38 +1,31 @@
-.App {
+.barang {
+  text-align: center;
+  padding: 100px;
+}
+.aveceeena {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.deskripsi {
+  padding-left: 50%;
+  margin-inline-start: 30%;
+  position: absolute;
+  background-color: white;
+  border: 1rem solid;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.size {
+  text-align: center;
+  margin: 100px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.size h4 {
+  margin: 70px;
 }
-
-.App-link {
-  color: #61dafb;
+.kontk {
+  text-align: center;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.alamat {
+  padding-left: 10%;
+  font-family: sans-serif;
+}
+.kaki {
+  margin-bottom: 50%;
 }
